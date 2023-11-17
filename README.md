@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gabriel Baumgartner</h1>
 <h3 align="center">I have a degree in Production Engineering and am passionate about data analysis.</h3>
 
+🔭 I’m currently working on NIDEC Global Applience
+
+👯 I’m looking to collaborate on Data Projects
+
+🌱 I’m currently learning Data Engineering and Visualization in Python
+
+💬 Ask me about Qlik Sense and Power BI
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-baumgartner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-baumgartner/" height="30" width="40" /></a>
